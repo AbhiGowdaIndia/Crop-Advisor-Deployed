@@ -1,9 +1,12 @@
 flask
 pillow
 numpy
+pandas
 werkzeug
 wtforms
 flask_wtf
 keras
 tensorflow-cpu
 gunicorn
+requests
+pickle
