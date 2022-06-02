@@ -9,6 +9,9 @@ The project is developed using Flask framework.
 
 Few Screenshots from the projects are here.
 
+## Project Url
+https://crop--advisor.herokuapp.com/
+
 
 ### User Home
 <img src="Images/User_home.jpg" width="425" height="300"> 
