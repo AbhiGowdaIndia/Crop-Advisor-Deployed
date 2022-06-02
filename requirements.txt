@@ -1,0 +1,9 @@
+flask
+pillow
+numpy
+werkzeug
+wtforms
+flask_wtf
+keras
+tensorflow
+gunicorn
