@@ -9,4 +9,4 @@ keras
 tensorflow-cpu
 gunicorn
 requests
-pickle
+pickle-mixin
