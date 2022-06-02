@@ -2,6 +2,7 @@ flask
 pillow
 numpy
 pandas
+scikit-learn
 werkzeug
 wtforms
 flask_wtf
