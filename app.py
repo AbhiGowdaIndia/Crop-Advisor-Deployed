@@ -9,7 +9,7 @@ from PIL import Image
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '5791628bb0b13ce0c676dfde280ba245'
-app.config['UPLOADS'] = 'crop_advisor/static/images'
+app.config['UPLOADS'] = 'static/images'
 
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 soil={'sandy and loam soil': 11,
