@@ -5,5 +5,5 @@ werkzeug
 wtforms
 flask_wtf
 keras
-tensorflow
+tensorflow-cpu
 gunicorn
