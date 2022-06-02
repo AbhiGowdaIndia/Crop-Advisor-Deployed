@@ -14,7 +14,7 @@ from crop_advisor.details import fertilizer_dic,disease_dic,target_dict
 
 weather_api_key = "9d7cde1f6d07ec55650544be1631307e"
 
-disease_model_path = 'E:/Projects/Crop Advisor/crop_advisor/models/plant_disease_model.h5'
+disease_model_path = 'crop_advisor/models/plant_disease_model.h5'
 
 disease_model = load_model(disease_model_path)
 #disease_model = load_trained_model()
